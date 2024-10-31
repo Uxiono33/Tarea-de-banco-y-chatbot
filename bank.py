@@ -15,9 +15,7 @@ class Bank_acount:
       print(self.acount_number)
 
 
-bank2=Bank_acount(0)
-bank2.deposit(100)
-bank2.get_balance()
+
 
 
 
